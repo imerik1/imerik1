@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm Erik Santana</h1>
 <h3 align="center">Just a man passionate about being part of the best community in the world, the programming community</h3>
 
-<h5 align='center'>Front End Developer, programming lover</h5>
+<h4 align='center'>Front End Developer, programming lover</h4>
 
 - 🌱 I’m currently learning **Frameworks JavaScript and improving JavaScript.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imerik1](https://github.com/imerik1)
+ <br> - 👨‍💻 All of my projects are available at <a href='https://github.com/imerik1'>Github</a>
 
-- 📫 How to reach me **erik_s_marques@hotmail.com**
+ <br> - 📫 How to reach me <a href='erik_s_marques@hotmail.com'>erik_s_marques@hotmail.com</a>
 
 <p align="left">
 <div align='center'>
