@@ -3,18 +3,24 @@
 <a href="https://www.twitch.tv/eker1"><img src="https://pngimg.com/uploads/twitch/twitch_PNG49.png" width="32"></a>
 <a href="https://www.youtube.com/channel/UCK6ma51tX_xvk47cMZPaaMA?view_as=subscriber"><img src="https://juniorsilveira.com.br/wp-content/uploads/2019/03/youtube-logo-in-png-26.png" width="32"></a>
 
-## About Me
-
+## Sobre mim - About Me
+> [English]
+> <br>
+> Apaixonado por tecnologia, eu procuro muito sobre o que está em alta no mercado, tenho fome por aprendizagem e sempre tento ficar atualizado do que está acontecendo.
+> Um desenvolvedor Front End que está aprendendo e ensinando, fique a vontade para saber coisas sobre mim.
+> <br>
+> [English]
+> <br>
 > Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
 > A Front End developer who is learning and teaching, feel free to learn more about me.
 
-## Projects separated by repository and language
+## Projetos separados por repositórios e linguagem - Projects separated by repository and language
 
 > Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br>
 > Projects using only CSS:  <a href="https://github.com/imerik1/css-projects">Clique aqui</a><br>
 > Projects using only JS: <a href="https://github.com/imerik1/js-projects">Clique aqui</a>
 
-## Languages I use
+## Linguagens que utilizo - Languages I use
 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24">  HTML <br>
 > <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24">  CSS <br>
