@@ -4,11 +4,11 @@
 <a href="https://www.youtube.com/channel/UCK6ma51tX_xvk47cMZPaaMA?view_as=subscriber"><img src="https://juniorsilveira.com.br/wp-content/uploads/2019/03/youtube-logo-in-png-26.png" width="32"></a>
 
 ## Sobre mim - About Me
-> [English]
+> [Português]
 > <br>
 > Apaixonado por tecnologia, eu procuro muito sobre o que está em alta no mercado, tenho fome por aprendizagem e sempre tento ficar atualizado do que está acontecendo.
 > Um desenvolvedor Front End que está aprendendo e ensinando, fique a vontade para saber coisas sobre mim.
-> <br>
+
 > [English]
 > <br>
 > Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
