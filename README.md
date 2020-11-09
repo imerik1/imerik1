@@ -6,7 +6,7 @@
 ## Sobre mim - About Me
 > [Português]
 > <br>
-> Apaixonado por tecnologia, eu procuro muito sobre o que está em alta no mercado, tenho fome por aprendizagem e sempre tento ficar atualizado do que está acontecendo.
+> Apaixonado por tecnologia, eu procuro muito sobre o que está em alta no mercado, tenho fome por aprendizagem e sempre tento ficar atualizado do que está acontecendo.<br>
 > Um desenvolvedor Front End que está aprendendo e ensinando, fique a vontade para saber coisas sobre mim.
 
 > [English]
