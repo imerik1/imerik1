@@ -1,2 +1,25 @@
-<div ><h1 align="center">Hi 👋, I'm Erik Santana</h1><h3 align="center">Just a man passionate about being part of the best community in the world, the programming community</h3><h4 align='center'>Front End Developer, programming lover</h4>- 🌱 I’m currently learning **Frameworks JavaScript and improving JavaScript. <br> - 👨‍💻 All of my projects are available at <a href='https://github.com/imerik1'>Github</a> <br> - 📫 How to reach me <a href="mailto:name@email.com"'>erik_s_marques@hotmail.com</a><p align="left"><div align='center'> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/><span>AngularJS</span> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"> <span>Bulma</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <span>CSS3</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/><span>Ember</span> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><span>Figma</span> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/><span>GCP</span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><span>Git</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><span>HTML5</span><br> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/><span>Java</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><span>JavaScript</span> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/><span>Materialize</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/><span>Photoshop</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><span>ReactJS</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><span>Sass</span> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/><span>VueJs</span></p></div><p align="center"> <a href="https://linkedin.com/in/imerik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imerik1" height="30" width="30" /></a></p></div>
-  
+# Hello, welcome
+
+## Introduction
+
+> Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
+> A Front End developer who is learning and teaching, feel free to learn more about me.
+
+## Projects separated by repository and language
+
+> Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br>
+> Projects using only CSS:  <a href="https://github.com/imerik1/css-projects">Clique aqui</a><br>
+> Projects using only JS: <a href="https://github.com/imerik1/js-projects">Clique aqui</a>
+
+## Languages I use
+
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24">  HTML <br>
+> <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24">  CSS <br>
+> <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" width="24">  Javascript <br>
+> <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24">  ReactJS <br>
+> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24">  NodeJS <br>
+> <img src="https://blog.4linux.com.br/wp-content/uploads/2018/03/Curso-de-Banco-de-Dados-NoSQL.png" width="24">  MongoDB <br>
+> <img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="24">  Git <br>
+> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHKpwh4KyVNbw/company-logo_200_200/0?e=2159024400&v=beta&t=eLZxixsE312fI5gQzORiScYKgDEBZZByrqEP4EOE5kA" width="24">  NPM <br>
+> <img src="https://lh3.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="24">  Adobe XD <br>
+> <img src="https://hotmart.s3.amazonaws.com/product_contents/2cd21205-2302-4f60-898c-ba5d5e9424f5/1200pxAdobe_Photoshop_CC_iconsvg.png" width="24">  Adobe Photoshop <br>
