@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/imerik1/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32"></a>
 <a href="https://www.twitch.tv/eker1"><img src="https://pngimg.com/uploads/twitch/twitch_PNG49.png" width="32"></a>
 
-## Introduction
+## About Me
 
 > Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
 > A Front End developer who is learning and teaching, feel free to learn more about me.
