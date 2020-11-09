@@ -20,7 +20,7 @@
 > Projects using only CSS:  <a href="https://github.com/imerik1/css-projects">Clique aqui</a><br>
 > Projects using only JS: <a href="https://github.com/imerik1/js-projects">Clique aqui</a>
 
-## Linguagens que utilizo - Languages I use
+## O que utilizo - What I use
 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24">  HTML <br>
 > <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24">  CSS <br>
