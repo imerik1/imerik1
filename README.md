@@ -14,6 +14,10 @@
 > Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
 > A Front End developer who is learning and teaching, feel free to learn more about me.
 
+## Experiência Profissional - Professional Experience
+
+> <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - nov/2020 - presente 
+
 ## Projetos separados por repositórios e linguagem - Projects separated by repository and language
 
 > Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br>
