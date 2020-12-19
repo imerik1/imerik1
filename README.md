@@ -25,6 +25,7 @@
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24px">  HTML <br>
 > <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24px">  CSS <br>
 > <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" width="24px">  Javascript <br>
+> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="24px">  TypeScript <br>
 > <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24px">  ReactJS <br>
 > <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24px">  NodeJS <br>
 > <img src="https://blog.4linux.com.br/wp-content/uploads/2018/03/Curso-de-Banco-de-Dados-NoSQL.png" width="24px">  MongoDB <br>
