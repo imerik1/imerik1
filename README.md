@@ -16,7 +16,7 @@
 
 ## Projetos separados por repositórios e linguagem - Projects separated by repository and language
 
-> Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br
+> Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br>
 
 ## O que utilizo - What I use
 
