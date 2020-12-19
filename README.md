@@ -16,9 +16,7 @@
 
 ## Projetos separados por repositórios e linguagem - Projects separated by repository and language
 
-> Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br>
-> Projects using only CSS:  <a href="https://github.com/imerik1/css-projects">Clique aqui</a><br>
-> Projects using only JS: <a href="https://github.com/imerik1/js-projects">Clique aqui</a>
+> Projects: <a href="https://github.com/imerik1/projects">Clique aqui</a><br
 
 ## O que utilizo - What I use
 
@@ -27,6 +25,8 @@
 > <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" width="24px">  Javascript <br>
 > <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="24px">  TypeScript <br>
 > <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24px">  ReactJS <br>
+> <img src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" width="24px">  NextJS <br>
+
 > <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24px">  NodeJS <br>
 > <img src="https://blog.4linux.com.br/wp-content/uploads/2018/03/Curso-de-Banco-de-Dados-NoSQL.png" width="24px">  MongoDB <br>
 > <img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="24px">  Git <br>
