@@ -16,6 +16,8 @@
 
 ## Experiência Profissional - Professional Experience
 
+### Front-end Developer
+
 > <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - nov/2020 - presente 
 
 ## Projetos separados por repositórios e linguagem - Projects separated by repository and language
