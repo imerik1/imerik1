@@ -24,7 +24,7 @@
 
 > <a href="https://www.youtube.com/user/codigofontetv">IBM</a> - fev/2021 - presente
 
-### Front-end ScreenWritter
+### Front-end ScreenWriter
 
 > <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - jan/2021 - presente
 
