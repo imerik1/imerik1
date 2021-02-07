@@ -18,7 +18,15 @@
 
 ### Front-end Developer
 
-> <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - nov/2020 - presente 
+> <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - nov/2020 - presente
+
+### Developer
+
+> <a href="https://www.youtube.com/user/codigofontetv">IBM</a> - fev/2021 - presente
+
+### Front-end ScreenWritter
+
+> <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - jan/2021 - presente
 
 ## Projetos separados por repositórios e linguagem - Projects separated by repository and language
 
