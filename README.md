@@ -22,7 +22,7 @@
 
 ### Developer
 
-> <a href="https://www.youtube.com/user/codigofontetv">IBM</a> - fev/2021 - presente
+> <a href="https://www.ibm.com/br-pt">IBM</a> - fev/2021 - presente
 
 ### Front-end ScreenWriter
 
