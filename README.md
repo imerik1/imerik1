@@ -7,12 +7,12 @@
 > [Português]
 > <br>
 > Apaixonado por tecnologia, eu procuro muito sobre o que está em alta no mercado, tenho fome por aprendizagem e sempre tento ficar atualizado do que está acontecendo.<br>
-> Um desenvolvedor Front End que está aprendendo e ensinando, fique a vontade para saber coisas sobre mim.
+> Um desenvolvedor que está aprendendo e ensinando, fique a vontade para saber coisas sobre mim.
 
 > [English]
 > <br>
 > Passionate about technology, I research a lot about the market trend, I am hungry for learning and I always try to be updated on everything that is happening. <br>
-> A Front End developer who is learning and teaching, feel free to learn more about me.
+> A developer who is learning and teaching, feel free to learn more about me.
 
 ## Experiência Profissional - Professional Experience
 
