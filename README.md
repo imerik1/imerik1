@@ -35,12 +35,13 @@
 ## O que utilizo - What I use
 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24px">  HTML <br>
-> <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24px">  CSS <br>
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="24px">  CSS <br>
 > <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" width="24px">  Javascript <br>
 > <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="24px">  TypeScript <br>
 > <img src="https://static.mastodon.technology/custom_emojis/images/000/019/701/static/b5c0d354e58ed3f1.png" width="24px">  JAVA <br>
 > <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="24px">  Python <br>
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="24px">  R <br>
+> <img src="https://img.icons8.com/color/1600/c-plus-plus-logo.png" width="24px">  C++ <br>
 > <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24px">  ReactJS <br>
 <img src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" width="24px">  NextJS <br>
 > <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24px">  NodeJS <br>
