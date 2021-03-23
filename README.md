@@ -43,6 +43,8 @@
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="24px">  R <br>
 > <img src="https://img.icons8.com/color/1600/c-plus-plus-logo.png" width="24px">  C++ <br>
 > <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24px">  ReactJS <br>
+> <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" width="24px">  Angular <br>
+> <img src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" width="24px">  SpringBoot <br>
 <img src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" width="24px">  NextJS <br>
 > <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24px">  NodeJS <br>
 > <img src="https://blog.4linux.com.br/wp-content/uploads/2018/03/Curso-de-Banco-de-Dados-NoSQL.png" width="24px">  MongoDB <br>
