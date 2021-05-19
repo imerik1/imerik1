@@ -20,7 +20,7 @@
 
 > <a href="https://www.youtube.com/user/codigofontetv">Código Fonte TV</a> - nov/2020 - presente
 
-### Software Developer
+### Software Engineer
 
 > <a href="https://www.ibm.com/br-pt">IBM</a> - fev/2021 - presente
 
