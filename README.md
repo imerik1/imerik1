@@ -1,2 +1,4 @@
 ![](./github-user-contribution.svg)
-![](./readme.png)
+![](./profile.png)
+![](./experience.png)
+![](./language.png)

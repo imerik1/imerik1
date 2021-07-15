@@ -3,23 +3,23 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class ImErik{
+public class ImErik {
 
     private final Integer age = 20;
     private final String myDogName = "Steve";
     private final String myLinkedIn = "imerik1";
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(myProfile());
         System.out.println(myProfessionalExperience());
         System.out.println(myFavoriteLanguagesAndTechnologies());
     };
 
-    public static String myProfile(){
+    public static String myProfile() {
         return "Hi, my name is Erik and I am a technology enthusiast, study lover and passionate about learning.";
     };
 
-    public static Map<String, String> myProfessionalExperience(){
+    public static Map<String, String> myProfessionalExperience() {
         Map<String, String> experiences = new HashMap<String, String>();
 
         experiences.put("Código Fonte TV", "Front-End Developer");
@@ -30,7 +30,7 @@ public class ImErik{
         return experiences;
     };
 
-    public static List<String> myFavoriteLanguagesAndTechnologies(){
+    public static List<String> myFavoriteLanguagesAndTechnologies() {
         List<String> languages = new ArrayList<String>();
 
         languages.add("JavaScript");
