@@ -5,6 +5,7 @@
 <div>
 <img title="O nome dele é Steve por conta do Steve Jobs" src="https://i.ibb.co/ScC5LLx/68747470733a2f2f692e6962622e636f2f526738396866312f746976652e706e67.png" height="150px" />
 <img title="Steve popotamo" src="https://i.ibb.co/m9PDM8c/stevehipopotamo.jpg" height="150px" />
+<img title="Steve triste" src="https://i.ibb.co/kgWYbBj/stevetriste.png" height="150px" />
 </div>
 
 ## Companies I worked with
