@@ -1,5 +1,5 @@
 ## About me
-*Hello, I'm **Erik**, I have a dog named **Steve**, I like **programming** and I love talking about **programming**.*
+*Hello, I'm **Erik**, I have a dog named **Steve**, I like **programming** and I love talking about **programming** and I'm a senior programmer.*
 
 #### Steve
 <div>
