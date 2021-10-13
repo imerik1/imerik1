@@ -1,6 +1,5 @@
 ## About me
-*Hello, I'm **Erik**,*
-I have a dog named **Steve**, I like **programming** and I love talking about **programming**.
+*Hello, I'm **Erik**, I have a dog named **Steve**, I like **programming** and I love talking about **programming**.*
 
 #### Steve
 <img title="O nome dele é Steve por conta do Steve Jobs" src="https://i.ibb.co/Rg89hf1/tive.png" height="150px" />
