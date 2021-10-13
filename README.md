@@ -16,7 +16,7 @@
 </div>
 
 ## Knowledge
-<div>
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -69,7 +69,7 @@
 </div>
 
 ## Badges
-<div>
+<div style="display: flex; gap: 10px;">
 <a href="https://www.credly.com/badges/0d21da95-575f-418c-a768-60d998e78dd2" target="_blank"><img src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" /></a>
 <a href="https://www.credly.com/badges/4926b01c-6531-4832-b93c-7d959d0066de" target="_blank"><img src="https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png" /></a>
 <a href="https://www.credly.com/badges/b979dd2c-f07a-47bd-a04e-ea16cf790584" target="_blank"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" /></a>
@@ -92,7 +92,7 @@
 </div>
 
 ### Another badges
-<div>
+<div style="display: flex; gap: 10px;">
 <a href="https://www.hackerrank.com/imerik1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/imerik1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
