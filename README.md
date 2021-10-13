@@ -1,3 +1,10 @@
+## About me
+*Hello, I'm **Erik**,*
+I have a dog named **Steve**, I like **programming** and I love talking about **programming**.
+
+#### Steve
+<img title="O nome dele é Steve por conta do Steve Jobs" src="https://i.ibb.co/Rg89hf1/tive.png" height="150px" />
+
 ## Companies I worked with
 <div>
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
@@ -6,6 +13,7 @@
 <img height="100px" src="https://otocenterrecife.com.br/wp-content/uploads/2016/09/bradesco-logo.jpg"/>
 <img height="100px" src="https://pbs.twimg.com/profile_images/1339621346431668225/fJPPiDjg_400x400.jpg"/>
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
+<img height="100px" src="https://www.outsystems.com/-/media/images/partners-integration/partners/001w000001fbastaay/logo.png?updated=20201207174954"/>
 </div>
 
 ## Knowledge
