@@ -93,7 +93,7 @@
 <a href="https://www.credly.com/badges/11a9a974-931c-42ab-8a5f-b9ce3634ad97" target="_blank"><img src="https://images.credly.com/size/110x110/images/9104d819-fab4-44db-a909-77771dcfb104/Accessibility-Advocate.png" /></a>
 <a href="https://www.credly.com/badges/7e602952-a78e-4229-be06-18089e1f4fc7" target="_blank"><img src="https://images.credly.com/size/110x110/images/c6910aaf-5db0-490f-b896-340afbafff77/Privacy-Foundations.png" /></a>
 <a href="https://www.credly.com/badges/fb34c1c6-44a4-4ea6-9c9e-d4dc1384aa06" target="_blank"><img src="https://images.credly.com/size/110x110/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" /></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7E3F35204F758DE60A258EDD36E2B259C3A1438E8084FC39BCBEB73DEFD5B1" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png" /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7E3F35204F758DE60A258EDD36E2B259C3A1438E8084FC39BCBEB73DEFD5B1" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png" height="110px" /></a>
 </div>
 
 ### Another badges
