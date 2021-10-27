@@ -94,7 +94,7 @@
 <a href="https://www.credly.com/badges/7e602952-a78e-4229-be06-18089e1f4fc7" target="_blank"><img src="https://images.credly.com/size/110x110/images/c6910aaf-5db0-490f-b896-340afbafff77/Privacy-Foundations.png" /></a>
 <a href="https://www.credly.com/badges/fb34c1c6-44a4-4ea6-9c9e-d4dc1384aa06" target="_blank"><img src="https://images.credly.com/size/110x110/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" /></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7E3F35204F758DE60A258EDD36E2B259C3A1438E8084FC39BCBEB73DEFD5B1" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png" height="110px" /></a>
-<a href="https://www.credly.com/earner/earned/badge/dc87d162-e98b-4881-9324-ce46ab5d19a5/linked_in" target="_blank"><img src="https://images.credly.com/size/340x340/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" height="110px" /></a>
+<a href="https://www.credly.com/earner/earned/badge/dc87d162-e98b-4881-9324-ce46ab5d19a5" target="_blank"><img src="https://images.credly.com/size/340x340/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" height="110px" /></a>
 <a href="https://www.credly.com/earner/earned/badge/7af4af43-4975-433b-bbc2-ce6e5e11c621" target="_blank"><img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" height="110px" /></a>
 </div>
 
