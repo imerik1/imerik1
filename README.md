@@ -16,7 +16,7 @@
 <img height="100px" src="https://otocenterrecife.com.br/wp-content/uploads/2016/09/bradesco-logo.jpg"/>
 <img height="100px" src="https://pbs.twimg.com/profile_images/1339621346431668225/fJPPiDjg_400x400.jpg"/>
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
-<img height="100px" src="https://www.outsystems.com/-/media/images/partners-integration/partners/001w000001fbastaay/logo.png?updated=20201207174954"/>
+<img height="100px" src="https://media.glassdoor.com/sqll/2491622/sis-solu%C3%A7%C3%A3o-integrada-de-sistemas-squareLogo-1629120903664.png"/>
 </div>
 
 ## Knowledge
