@@ -96,6 +96,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7E3F35204F758DE60A258EDD36E2B259C3A1438E8084FC39BCBEB73DEFD5B1" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png" height="110px" /></a>
 <a href="https://www.credly.com/earner/earned/badge/dc87d162-e98b-4881-9324-ce46ab5d19a5" target="_blank"><img src="https://images.credly.com/size/340x340/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" height="110px" /></a>
 <a href="https://www.credly.com/earner/earned/badge/7af4af43-4975-433b-bbc2-ce6e5e11c621" target="_blank"><img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" height="110px" /></a>
+<a href="https://www.credly.com/earner/earned/badge/e5790111-fedb-41e3-927e-addbae9927a2" target="_blank"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="110px" /></a>
 </div>
 
 ### Another badges
