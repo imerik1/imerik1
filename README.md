@@ -18,7 +18,9 @@
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
 <img height="100px" src="https://media.glassdoor.com/sqll/2491622/sis-solu%C3%A7%C3%A3o-integrada-de-sistemas-squareLogo-1629120903664.png"/>
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
-</div>
+<img height="100px" src="https://99prod.s3.amazonaws.com/uploads/c59b13a4-ff9e-471c-b748-63e9de3f5b8a/thumb.png"/>
+<img height="100px" src="https://raichu-uploads.s3.amazonaws.com/logo_buscape_12gX0v.png"/>
+<img height="100px" src="https://raichu-beta.s3.amazonaws.com/1896748768.gif"/>
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
