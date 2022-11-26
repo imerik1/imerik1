@@ -12,7 +12,7 @@
 <div>
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
-<img height="100px" src="https://yata-apix-eaa0b8a5-0d02-45fe-a4fe-c6d6f9ce55ab.lss.locawebcorp.com.br/07798be3627e4475b4b7bfa4c9bd2dee.jpg"/>
+<img height="100px" src="https://unioneseguros.com.br/wp-content/uploads/2016/08/Unione-seguros-bradesco-600x660.jpg"/>
 <img height="100px" src="https://otocenterrecife.com.br/wp-content/uploads/2016/09/bradesco-logo.jpg"/>
 <img height="100px" src="https://pbs.twimg.com/profile_images/1339621346431668225/fJPPiDjg_400x400.jpg"/>
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
