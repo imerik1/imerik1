@@ -20,6 +20,7 @@
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
 <img height="100px" src="https://99prod.s3.amazonaws.com/uploads/c59b13a4-ff9e-471c-b748-63e9de3f5b8a/thumb.png"/>
 <img height="100px" src="https://i.ibb.co/pbszYkF/logo-buscape-12g-X0v.png"/>
+<img height="100px" width="100px" src="https://media.glassdoor.com/sqll/732/whirlpool-corporation-squareLogo-1653302235852.png"/>
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
