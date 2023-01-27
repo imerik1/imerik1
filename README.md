@@ -8,7 +8,7 @@
 <img title="Steve triste" src="https://i.ibb.co/kgWYbBj/stevetriste.png" height="150px" />
 </div>
 
-## Companies I worked with
+## Companies I worked with (Just Long-Term Contract)
 <div>
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
