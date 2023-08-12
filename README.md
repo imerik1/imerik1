@@ -16,11 +16,10 @@
 <img height="100px" src="https://marcas-logos.net/wp-content/uploads/2020/10/Bradesco-Logo-2009.jpg"/>
 <img height="100px" src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-pictures/clbqzrj4600dh0449erh6cjsm.jpg"/>
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
-<img height="100px" src="https://media.glassdoor.com/sqll/2491622/sis-solu%C3%A7%C3%A3o-integrada-de-sistemas-squareLogo-1629120903664.png"/>
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
 <img height="100px" src="https://99prod.s3.amazonaws.com/uploads/c59b13a4-ff9e-471c-b748-63e9de3f5b8a/thumb.png"/>
 <img height="100px" src="https://i.ibb.co/pbszYkF/logo-buscape-12g-X0v.png"/>
-<img height="100px" width="100px" src="https://media.glassdoor.com/sqll/732/whirlpool-corporation-squareLogo-1653302235852.png"/>
+<img height="100px" width="100px" src="https://media.licdn.com/dms/image/C560BAQEc41FEInZ78g/company-logo_200_200/0/1635873911025?e=2147483647&v=beta&t=KEFgUu9wg28vPMRGlDBbK3ZEbOj2m881Uc95fRaVRpE"/>
 <img height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEwCYn6K_p1HQ/company-logo_200_200/0/1625171402828?e=2147483647&v=beta&t=P8rfevTG6F-WCWxqTBNeJe3BfS9Ftz_f9XRO_KWf6k4"/>
 
 ## Knowledge
@@ -101,6 +100,7 @@
 <a href="https://www.credly.com/earner/earned/badge/dc87d162-e98b-4881-9324-ce46ab5d19a5" target="_blank"><img src="https://images.credly.com/size/340x340/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" height="110px" /></a>
 <a href="https://www.credly.com/earner/earned/badge/7af4af43-4975-433b-bbc2-ce6e5e11c621" target="_blank"><img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" height="110px" /></a>
 <a href="https://www.credly.com/earner/earned/badge/e5790111-fedb-41e3-927e-addbae9927a2" target="_blank"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="110px" /></a>
+<a href="https://www.credly.com/badges/9136dd39-a0a0-4795-a07e-1a4c10f1622e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
 </div>
 
 ### Another badges
