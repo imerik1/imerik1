@@ -13,8 +13,8 @@
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" width="100px" src="https://unioneseguros.com.br/wp-content/uploads/2016/08/Unione-seguros-bradesco-600x660.jpg"/>
-<img height="100px" src="https://otocenterrecife.com.br/wp-content/uploads/2016/09/bradesco-logo.jpg"/>
-<img height="100px" src="https://pbs.twimg.com/profile_images/1339621346431668225/fJPPiDjg_400x400.jpg"/>
+<img height="100px" src="https://t2.tudocdn.net/625915?w=1200&h=1200"/>
+<img height="100px" src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-pictures/clbqzrj4600dh0449erh6cjsm.jpg"/>
 <img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
 <img height="100px" src="https://media.glassdoor.com/sqll/2491622/sis-solu%C3%A7%C3%A3o-integrada-de-sistemas-squareLogo-1629120903664.png"/>
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
