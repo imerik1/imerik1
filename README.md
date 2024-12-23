@@ -106,8 +106,4 @@
 ### Another badges
 <div style="display: flex; gap: 10px;">
 <a href="https://www.hackerrank.com/imerik1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/imerik1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-## Contact me
-<a href="https://www.linkedin.com/in/imerik1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
