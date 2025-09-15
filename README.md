@@ -26,20 +26,22 @@
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
-Versatile and results-driven Software Engineer with 5+ years of experience in front-end and
+<p>Versatile and results-driven Software Engineer with 5+ years of experience in front-end and
 back-end development, and over 3 years working with multiple programming languages,
 including Rust, Golang, JavaScript, Java, Python, and C++. Proficient in Git, with strong
 expertise in resolving conflicts and implementing effective branching strategies. Experienced in
 SQL, from developing complex stored procedures to optimizing queries with advanced indexing
-techniques.
-Skilled in DevOps practices with hands-on experience in CI/CD pipelines (Git, GitLab CI, GitHub
+techniques.</p>
+<br />
+<p>Skilled in DevOps practices with hands-on experience in CI/CD pipelines (Git, GitLab CI, GitHub
 Actions, Jenkins), cloud infrastructure (AWS, GCP), and container orchestration (Kubernetes,
 Docker). Strong background in microservices architecture, modern deployment tools (Argo CD,
 Istio), and monitoring solutions (NewRelic, Prometheus, Grafana). Proven track record of
-leading teams, automating IT processes, and reducing cloud costs by over 20%.
-Certified in AWS, cybersecurity, agile methodologies, and enterprise design thinking. Highly
+leading teams, automating IT processes, and reducing cloud costs by over 20%.</p>
+<br />
+<p>Certified in AWS, cybersecurity, agile methodologies, and enterprise design thinking. Highly
 motivated, self-taught, and passionate about continuous learning, with over 20 professional
-certifications.
+certifications.</p>
 </div>
 
 ## Badges
