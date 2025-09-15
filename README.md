@@ -13,7 +13,7 @@
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" width="100px" src="https://unioneseguros.com.br/wp-content/uploads/2016/08/Unione-seguros-bradesco-600x660.jpg"/>
-<img height="100px" src="https://marcas-logos.net/wp-content/uploads/2020/10/Bradesco-Logo-2009.jpg"/>
+<img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76Y8Kg3vkr8pHetdO3ELHzbU9OcaN-YtxQw&s"/>
 <img height="100px" src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-pictures/clbqzrj4600dh0449erh6cjsm.jpg"/>
 <img height="100px" src="https://pesquisa.codigofonte.com.br/assets/codigofonte-icon.svg"/>
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
