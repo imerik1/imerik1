@@ -15,7 +15,7 @@
 <img height="100px" width="100px" src="https://unioneseguros.com.br/wp-content/uploads/2016/08/Unione-seguros-bradesco-600x660.jpg"/>
 <img height="100px" src="https://marcas-logos.net/wp-content/uploads/2020/10/Bradesco-Logo-2009.jpg"/>
 <img height="100px" src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-pictures/clbqzrj4600dh0449erh6cjsm.jpg"/>
-<img height="100px" src="https://www.codigofonte.com.br/wp-content/uploads/2013/06/logo.jpg"/>
+<img height="100px" src="https://pesquisa.codigofonte.com.br/assets/codigofonte-icon.svg"/>
 <img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-7cYQqFTazA/company-logo_200_200/0/1612526531994?e=2147483647&v=beta&t=4xZoCNHlfr88hUrudi2hzqLtBIM5XfUzOQv7y4_RtVs"/>
 <img height="100px" src="https://99prod.s3.amazonaws.com/uploads/c59b13a4-ff9e-471c-b748-63e9de3f5b8a/thumb.png"/>
 <img height="100px" src="https://i.ibb.co/pbszYkF/logo-buscape-12g-X0v.png"/>
