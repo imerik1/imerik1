@@ -79,33 +79,6 @@
 
 ## Badges
 <div style="display: flex; gap: 10px;">
-<a href="https://www.credly.com/badges/0d21da95-575f-418c-a768-60d998e78dd2" target="_blank"><img src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" /></a>
-<a href="https://www.credly.com/badges/4926b01c-6531-4832-b93c-7d959d0066de" target="_blank"><img src="https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png" /></a>
-<a href="https://www.credly.com/badges/b979dd2c-f07a-47bd-a04e-ea16cf790584" target="_blank"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" /></a>
-<a href="https://www.credly.com/badges/12f83f57-1382-4ccb-a8f6-aec7f4b86263" target="_blank"><img src="https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" /></a>
-<a href="https://www.credly.com/badges/298b4ae8-7c87-4525-9640-6a4d9e04d56a" target="_blank"><img src="https://images.credly.com/size/110x110/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png" /></a>
-<a href="https://www.credly.com/badges/67b23c5c-dfd0-4291-9817-1be849c200e6" target="_blank"><img src="https://images.credly.com/size/110x110/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" /></a>
-<a href="https://www.credly.com/badges/133f6c3c-dfc9-46cc-ae5d-f50f57069cf2" target="_blank"><img src="https://images.credly.com/size/110x110/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png" /></a>
-<a href="https://www.credly.com/badges/6669b0b6-ee10-4cc4-ab90-e15034d81949" target="_blank"><img src="https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" /></a>
-<a href="https://www.credly.com/badges/0cb3a603-4697-43a5-becd-1ae040fdad4d" target="_blank"><img src="https://images.credly.com/size/110x110/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" /></a>
-<a href="https://www.credly.com/badges/5a9a06db-182c-4f98-bd7f-99381f066a66" target="_blank"><img src="https://images.credly.com/size/110x110/images/a704f109-687b-4690-bae0-e00eb61eea0d/Machine_Learning_with_R_-_CC_v2.png" /></a>
-<a href="https://www.credly.com/badges/86fe5970-4bcc-4b18-965f-b16062f9d964" target="_blank"><img src="https://images.credly.com/size/110x110/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png" /></a>
-<a href="https://www.credly.com/badges/49e3d290-23fd-41da-858f-3a9f9cca6567" target="_blank"><img src="https://images.credly.com/size/110x110/images/28d68d08-7a26-4868-be2e-7bf32eeab4f8/Deep_Learning_Using_TensorFlow.png" /></a>
-<a href="https://www.credly.com/badges/43d93a85-3cb0-4696-80b0-063a91642618" target="_blank"><img src="https://images.credly.com/size/110x110/images/fa1d5a32-416f-4370-be07-3a836072dedb/Watson_Visual_Recognition_-_2018.png" /></a>
-<a href="https://www.credly.com/badges/882d7050-37bd-42aa-84b2-a62699103405" target="_blank"><img src="https://images.credly.com/size/110x110/images/cf63aec9-fe9a-439f-b536-985fa4f86f6e/SF-Optimize_Ops_with_AI_Intro.png" /></a>
-<a href="https://www.credly.com/badges/abe96f13-2b28-4936-a4e9-d7c33e4a343a" target="_blank"><img src="https://images.credly.com/size/110x110/images/f32b9caf-748c-4df3-9954-2bd33f5e91be/Banking-Industry-Bronze.png" /></a>
-<a href="https://www.credly.com/badges/003b991a-d583-4967-88a6-e0144fdb40e6" target="_blank"><img src="https://images.credly.com/size/110x110/images/7671b89f-4102-455a-be3a-0413b734a59b/IBM-Blockchain-Foundation-Developer-V2.png" /></a>
-<a href="https://www.credly.com/badges/11a9a974-931c-42ab-8a5f-b9ce3634ad97" target="_blank"><img src="https://images.credly.com/size/110x110/images/9104d819-fab4-44db-a909-77771dcfb104/Accessibility-Advocate.png" /></a>
-<a href="https://www.credly.com/badges/7e602952-a78e-4229-be06-18089e1f4fc7" target="_blank"><img src="https://images.credly.com/size/110x110/images/c6910aaf-5db0-490f-b896-340afbafff77/Privacy-Foundations.png" /></a>
-<a href="https://www.credly.com/badges/fb34c1c6-44a4-4ea6-9c9e-d4dc1384aa06" target="_blank"><img src="https://images.credly.com/size/110x110/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" /></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7E3F35204F758DE60A258EDD36E2B259C3A1438E8084FC39BCBEB73DEFD5B1" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png" height="110px" /></a>
-<a href="https://www.credly.com/earner/earned/badge/dc87d162-e98b-4881-9324-ce46ab5d19a5" target="_blank"><img src="https://images.credly.com/size/340x340/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png" height="110px" /></a>
-<a href="https://www.credly.com/earner/earned/badge/7af4af43-4975-433b-bbc2-ce6e5e11c621" target="_blank"><img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" height="110px" /></a>
-<a href="https://www.credly.com/earner/earned/badge/e5790111-fedb-41e3-927e-addbae9927a2" target="_blank"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="110px" /></a>
-<a href="https://www.credly.com/badges/9136dd39-a0a0-4795-a07e-1a4c10f1622e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
-</div>
-
-### Another badges
-<div style="display: flex; gap: 10px;">
 <a href="https://www.hackerrank.com/imerik1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.credly.com/users/imerik1" target="_blank"><img src="https://img.shields.io/badge/-Credly-FFFFFF?style=for-the-badge&logo=Credly&logoColor=orange" /></a>
 </div>
