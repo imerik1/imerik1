@@ -22,7 +22,7 @@
 <img title="Whirlpool" height="100px" width="100px" src="https://media.licdn.com/dms/image/C560BAQEc41FEInZ78g/company-logo_200_200/0/1635873911025?e=2147483647&v=beta&t=KEFgUu9wg28vPMRGlDBbK3ZEbOj2m881Uc95fRaVRpE"/>
 <img title="Lab2Dev" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEwCYn6K_p1HQ/company-logo_200_200/0/1625171402828?e=2147483647&v=beta&t=P8rfevTG6F-WCWxqTBNeJe3BfS9Ftz_f9XRO_KWf6k4"/>
 <img title="Banco PAN" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8SiEb7MyG3xcucRsSu-kLItOVBpUa03hKQ&s"/>
-<img title="BTG Pactual" height="100px" width="100px" src="https://raichu-uploads.s3.amazonaws.com/logo_btg-mais_RaaiWK.png"/>
+<img title="BTG Pactual" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8sr5CFtBgsBkJSkce5dtMKSJnR2m1964JQ&s"/>
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
