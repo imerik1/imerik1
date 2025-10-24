@@ -26,7 +26,7 @@
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
-<p>Versatile and results-driven Software Engineer with 5+ years of experience in front-end and
+<p>Versatile and results-driven Software Engineer with 4+ years of experience in front-end and
 back-end development, and over 3 years working with multiple programming languages,
 including Rust, Golang, JavaScript, Java, Python, and C++. Proficient in Git, with strong
 expertise in resolving conflicts and implementing effective branching strategies. Experienced in
