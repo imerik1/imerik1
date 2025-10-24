@@ -11,7 +11,7 @@
 ## Companies I worked with (Just Long-Term Contract)
 <div>
 <img title="IBM" height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
-<img title="Itaú" height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
+<img title="Itaú" height="100px" src="https://cdn-1.webcatalog.io/catalog/itau/itau-icon-filled-256.png?v=1714774786429"/>
 <img title="Bradesco Seguros" height="100px" width="100px" src="https://unioneseguros.com.br/wp-content/uploads/2016/08/Unione-seguros-bradesco-600x660.jpg"/>
 <img title="Bradesco" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76Y8Kg3vkr8pHetdO3ELHzbU9OcaN-YtxQw&s"/>
 <img title="SIS" height="100px" src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-pictures/clbqzrj4600dh0449erh6cjsm.jpg"/>
